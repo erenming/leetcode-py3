@@ -42,6 +42,6 @@ venv
 *.sublime-*
 .cache/
 .vscode
-.idea
+.idea/
 
 logs/*.log
